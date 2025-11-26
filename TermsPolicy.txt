@@ -1,0 +1,59 @@
+Terms of Service – Jura Games
+
+Welcome!
+Thank you for using Jura Games. By interacting with this bot, you agree to these Terms of Service. If you do not agree, please do not use the bot.
+
+1. How You Can Use the Bot
+
+Use the bot only on servers where you have permission.
+
+The bot must not be used for illegal, offensive, or harmful purposes.
+
+You are responsible for anything you share or do through the bot.
+
+2. Our Responsibility
+
+The bot is provided as-is, without any guarantees.
+
+We are not responsible for any issues, losses, or conflicts caused by using the bot.
+
+3. Changes
+
+We may update or change the bot’s features, permissions, or rules at any time.
+
+Please check these Terms occasionally to stay up to date.
+
+4. Support & Contact
+
+If you have questions or issues, feel free to reach out: [Your Email or Discord Tag]
+
+Privacy Policy – Jura Games
+1. Your Privacy Matters
+
+We care about your privacy! This policy explains what information our bot collects and how we use it.
+
+2. What We Collect
+
+The bot may temporarily store Discord usernames, user IDs, server IDs, and command usage logs to provide features like commands and role management.
+
+We do not collect emails, passwords, or private messages without your consent.
+
+3. How We Use Your Data
+
+Collected data is used only to make the bot function properly and improve your experience.
+
+We do not sell or share your information with third parties, unless legally required.
+
+4. Deleting Your Data
+
+Data is kept only as long as necessary.
+
+You can request deletion of your data anytime by contacting [Your Email or Discord Tag].
+
+5. Security
+
+We take reasonable steps to protect your data from unauthorized access.
+
+6. Updates to This Policy
+
+Any changes will be posted here. Please review this policy occasionally to stay informed.
