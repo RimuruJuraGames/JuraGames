@@ -24,5 +24,5 @@ JuraGames is a fun Discord bot offering an **anime-casino experience**! Play bla
 
 ## ⚖️ Legal
 
-- [Terms of Service](#)  
-- [Privacy Policy](#)
+- [Terms of Service](https://github.com/RimuruJuraGames/JuraGames/blob/main/TermsPolicy.txt)  
+- [Privacy Policy](https://github.com/RimuruJuraGames/JuraGames/blob/main/TermsPolicy.txt)
